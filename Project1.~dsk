@@ -18,9 +18,9 @@ EditWindowCount=1
 [D:\Work.Delphi\Test\Unit1.pas]
 ModuleType=SourceModule
 FormState=1
-FormOnTop=1
+FormOnTop=0
 
-[C:\WINDOWS\system32\ProjectGroup1.bpg]
+[D:\Borland\Delphi5\Bin\ProjectGroup1.bpg]
 FormState=0
 FormOnTop=0
 

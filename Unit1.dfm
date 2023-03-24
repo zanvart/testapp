@@ -13,6 +13,13 @@ object Form1: TForm1
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
+  object Label1: TLabel
+    Left = 476
+    Top = 152
+    Width = 32
+    Height = 13
+    Caption = 'Label1'
+  end
   object Button1: TButton
     Left = 244
     Top = 96
